@@ -1,5 +1,5 @@
 ##
-<img src = 'Student Data Images/Balance_Due.png'>
+<img src = 'Balance_Due_Dist.png'>
 
 ##
 <img src = 'Student Data Images/Birth_Dist.png'>
